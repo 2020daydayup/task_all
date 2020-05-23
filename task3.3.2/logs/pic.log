@@ -1,0 +1,7 @@
+2020-05-18 20:12:38,113 [line:27] : ERROR 数据格式错误
+2020-05-20 19:51:56,534 [line:22] : INFO 用户注册账号成功,用户信息为：{'username': 'b', 'passwd': 'b', 'status': 0, 'is_delete': 0, 'operation': []}
+2020-05-20 19:53:02,429 [line:22] : INFO 用户注册账号成功,用户信息为：{'username': 'a', 'passwd': 'a', 'status': 0, 'is_delete': 0, 'operation': []}
+2020-05-20 20:34:07,746 [line:60] : ERROR 数据格式错误
+2020-05-23 15:13:49,931 [line:26] : INFO 用户注册账号成功,用户信息为：{'username': 'e', 'passwd': 'e', 'status': 0, 'is_delete': 0, 'operation': []}
+2020-05-23 15:14:55,929 [line:26] : INFO 用户注册账号成功,用户信息为：{'username': 'aa', 'passwd': 'aa', 'status': 0, 'is_delete': 0, 'operation': []}
+2020-05-23 15:31:38,827 [line:26] : INFO 用户注册账号成功,用户信息为：{'username': 'qwe', 'passwd': 'qwe', 'status': 0, 'is_delete': 0, 'operation': []}

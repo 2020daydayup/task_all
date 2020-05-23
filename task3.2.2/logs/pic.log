@@ -1,0 +1,14 @@
+2020-05-12 06:23:09,129 [line:31] : INFO 这是一个测试日志
+2020-05-12 06:38:19,388 [line:80] : INFO 图片裁剪成功，路径为：../pics\cut_0_0_512_128_知情同意书.png，参数为：(0, 0, 512, 128)
+2020-05-12 06:39:58,407 [line:80] : INFO 图片裁剪成功，路径为：../pics\cut_0_0_512_128_知情同意书.png，参数为：(0, 0, 512, 128)
+2020-05-12 06:44:56,478 [line:80] : INFO 图片裁剪成功，路径为：../pics\cut_0_0_512_128_知情同意书.png，参数为：(0, 0, 512, 128)
+2020-05-12 07:14:19,509 [line:61] : INFO 生成excel成功，路径为：datas/test.xlsx
+2020-05-12 07:15:32,064 [line:69] : INFO 图片旋转成功，路径为：../pics\40_送检单.bmp，参数为：40度
+2020-05-12 07:15:32,064 [line:69] : INFO 图片旋转成功，路径为：../pics\40_送检单.bmp，参数为：40度
+2020-05-12 07:17:29,865 [line:68] : INFO 图片旋转成功，路径为：../pics\50_谜+涪+.png，参数为：50度
+2020-05-12 07:18:28,230 [line:106] : ERROR type str doesn't define __round__ method
+2020-05-12 07:18:28,230 [line:106] : ERROR type str doesn't define __round__ method
+2020-05-12 07:20:02,247 [line:108] : ERROR type str doesn't define __round__ method
+2020-05-12 07:27:30,808 [line:108] : ERROR type str doesn't define __round__ method
+2020-05-12 07:28:30,145 [line:109] : ERROR type str doesn't define __round__ method
+2020-05-12 07:33:57,663 [line:81] : INFO 图片裁剪成功，路径为：../pics\cut_1_2_3_4_临床资料.png，参数为：(1, 2, 3, 4)
